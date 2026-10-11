@@ -5,6 +5,6 @@ main()
 {
 cout<<"   hello \n ";
 cout<<"     bye  \n ";
-cout<<"      noor \n ";
+cout<<"      baqir \n ";
 
 }
