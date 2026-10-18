@@ -20,8 +20,8 @@ cout<<"Enter the number of losses:";
 cin>>losses;
 
 
-points=(wins * 3)+(losses * o)+(draws * 1);
+points=(wins * 3)+(losses * 0)+(draws * 1);
 
- cout<<team <<" has obtained " <<points<< "points in the Asia Cup tournament." ;
-
+ cout<<team <<" has obtained " <<points<< " points in the Asia Cup tournament." ;
+ 
 }
